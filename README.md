@@ -8,3 +8,4 @@ Olá, sou Danilo Nunes Fernandes, tenho 38 anos e estou ingressando agora na jor
 
 ### A falta de incentivo ao aprendizado da tecnologia
 
+Neste desafio, resolvi falar um pouco sobre o quanto é difícil para uma pessoa de periferia e que vem do escola pública ter acesso ao ensino da tecnologia. Pois vejo que há muitas pessoas que gostariam de aprender e trabalhar nessas áreas, mas não tem oportunidade de ingressar nos estudos e ter recursos para se desenvolver. Isso se da por diversos motivos e falaremos de alguns que dificultam e muitas vezes impedem esse aprendizado.
