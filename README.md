@@ -29,7 +29,7 @@ Vimos no texto alguns apontamentos de dificultadores para o desenvolvimento das 
 Para democratizar a TI(tecnnologia da informação) é preciso que o poder público primeiro reconheça de onde vem esses problemas e depois crie meios de enfrentamento a esses problemas citados. É preciso fazer com que as escolas de ensino básico tenham a estrutura necessária, tanto física quando treinamento de professores(as) e que tenham como grade curricular obrigatória o ensino da tecnologia.
 Também é preciso pensar no grande público que não está na escola, que por muias vezes evadiu para trabalhar e ajudar em casa. Nesse caso também pode-se incentivar e direcionar recursos para projetos sociais e cursinho popular que existem ou que  podem ser criados em bairros de periferia. Há diversos projetos que trabalham a questão da tecnologia e outros podem iniciar um trabalho, mas demanda estrutura e investimento. Há diversos imóveis ociosos, sem cumprir sua função social e com dívidas com o estado que poderiam ser usados para fazer centros de desenvolvimento e até mesmo encubadoras de projetos nessa área. 
 Não há solução fácil para um problema tão grande e que vem de raizes profundas na história do país, mas é preciso vontade para buscar soluções, coragem para implementá-las e ir reajustando no caminho. É preciso ter um projeto de país que não seja baseado na exclusão, porquê ela é determinante na falta de desenvolvimento.
-                                                                                                   Danilo Nunes Fernandes - Korvo. Governador Valadares, 20/03/2025.
+                                                                        Danilo Nunes Fernandes - Korvo. Governador Valadares, 20/03/2025.
 
 
 
